@@ -32,7 +32,7 @@ MONGODB_URL=mongodb://localhost/task-manager
 
 Schritt 3:
 Stelle eine Verbindung zu einer MongoDB Atlas-Datenbank her. Stelle sicher, dass die Verbindung funktioniert.
-mongodb+srv://kbit:KDkUdLOJ7ylKQQmH@cluster0.ouelw8t.mongodb.net/taskman
+mongodb+srv://kbit:Kpasswd@cluster0.ouelw8t.mongodb.net/taskman
 
 Schritt 4:
 Erstelle ein Mongoose-Schema für die Aufgaben. Jede Aufgabe sollte folgende Informationen enthalten:
